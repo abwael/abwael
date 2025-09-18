@@ -1,11 +1,11 @@
 # 💫 About Me:
-My name is Abdelrahman Wael. I'm a Third-Year Computer Science student at Cairo University.
+My name is Abdelrahman Wael, and I am a Computer Science graduate from Cairo University.
 </div>
 <br>
 <div>
 
 # 🎓 Education:
-Cairo University, Bachelor of Science in Computer Science (expected graduation: 2025).
+Cairo University, Bachelor of Science in Computer Science (graduated: 2025).
 </div>
 <br>
 <div>
